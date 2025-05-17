@@ -18,4 +18,4 @@ Users can create, edit, and view blog posts with clean URLs, user authentication
 
 ```bash
 git clone https://github.com/<your-username>/<repo-name>.git
-cd <repo-name>
+cd django-block
